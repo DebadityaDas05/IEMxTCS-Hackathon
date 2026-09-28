@@ -1,0 +1,112 @@
+ACME CORPORATION — REMOTE WORK POLICY
+Version 1.5 | Effective Date: June 1, 2025
+============================================
+
+SECTION 1: OVERVIEW
+
+1.1 Purpose
+This policy establishes guidelines for remote work (Work From Home) arrangements at Acme Corporation. It aims to provide flexibility while maintaining productivity, collaboration, and security standards.
+
+1.2 Applicability
+This policy applies to all full-time employees who have completed their probation period. Contractors and interns are eligible for remote work only with explicit written approval from the department head.
+
+SECTION 2: ELIGIBILITY AND APPROVAL
+
+2.1 Eligibility Criteria
+Employees are eligible for remote work if they:
+- Have completed the 6-month probation period
+- Have a performance rating of "Meets Expectations" or above in the last review cycle
+- Are in a role that can be performed remotely (as determined by the department head)
+- Have a suitable home workspace with reliable internet connectivity (minimum 50 Mbps)
+
+2.2 Remote Work Models
+Acme Corporation offers three remote work models:
+- Hybrid (Default): 3 days in office, 2 days remote per week (Tuesday and Thursday are mandatory in-office days)
+- Primarily Remote: Up to 4 days remote per week (requires VP approval)
+- Fully Remote: 5 days remote (exceptional cases only, requires CHRO approval)
+
+2.3 Approval Process
+To request a remote work arrangement:
+1. Discuss with your reporting manager
+2. Submit a Remote Work Request form on the HR portal
+3. Manager reviews and approves/denies within 5 business days
+4. Approved arrangements are reviewed quarterly
+
+SECTION 3: REMOTE WORK GUIDELINES
+
+3.1 Work Hours
+Remote employees must be available during core business hours (10:00 AM - 4:00 PM IST). Flexible start and end times are permitted outside core hours, provided the total work hours meet the 8-hour daily requirement.
+
+3.2 Communication
+- Employees must be reachable via Microsoft Teams during work hours
+- Camera should be turned on during team meetings and client calls
+- Daily stand-up meetings with the team are mandatory
+- Response time for messages should not exceed 30 minutes during core hours
+
+3.3 Workspace Requirements
+Remote employees must ensure:
+- A dedicated, quiet workspace free from distractions
+- Ergonomic setup (the company provides a one-time INR 15,000 allowance for home office setup)
+- Reliable internet connection (minimum 50 Mbps; the company reimburses up to INR 1,500/month for internet)
+- Adequate lighting for video calls
+
+3.4 Productivity Tracking
+- Employees must update tasks on Jira/project management tools daily
+- Weekly status reports must be submitted to the reporting manager by Friday 5:00 PM
+- Managers may schedule periodic check-ins to discuss progress and address challenges
+
+SECTION 4: EQUIPMENT AND SUPPORT
+
+4.1 Company Equipment
+Remote employees will be provided with:
+- Laptop with required software pre-installed
+- VPN access for secure connectivity
+- Microsoft 365 license
+- Access to IT helpdesk for remote support
+
+4.2 Home Office Allowance
+A one-time home office setup allowance of INR 15,000 is provided to purchase:
+- Monitor
+- Keyboard and mouse
+- Headset
+- Desk lamp
+Receipts must be submitted within 30 days of purchase.
+
+4.3 Internet Reimbursement
+The company reimburses internet costs up to INR 1,500 per month upon submission of monthly bills.
+
+SECTION 5: SECURITY AND COMPLIANCE
+
+5.1 Data Security
+All remote work must comply with the IT Security Policy. Specifically:
+- Always use the company VPN when accessing internal systems
+- Do not use public Wi-Fi without VPN protection
+- Keep the laptop's screen locked when not in use
+- Do not allow unauthorized persons to access company devices or data
+
+5.2 Confidentiality
+Remote employees must ensure phone calls and video meetings discussing confidential matters are conducted in private spaces where conversations cannot be overheard.
+
+5.3 Physical Security
+Company equipment must be stored securely when not in use. Report any lost or stolen equipment to the IT Security team within 1 hour.
+
+SECTION 6: ATTENDANCE AND LEAVE
+
+6.1 Remote Work vs. Leave
+Working from home is not a substitute for leave. Employees who are unwell should apply for sick leave rather than attempting to work remotely. Remote work days should be productive work days.
+
+6.2 In-Office Requirements
+Certain activities require in-office presence:
+- Team building events and workshops
+- Client visits and presentations
+- Performance review discussions
+- Onboarding activities (first 2 weeks)
+- Quarterly town halls
+
+SECTION 7: TERMINATION OF REMOTE WORK ARRANGEMENT
+
+7.1 Company-Initiated Changes
+The company reserves the right to modify or terminate remote work arrangements with 2 weeks' notice based on business needs, performance concerns, or policy changes.
+
+7.2 Employee-Initiated Changes
+Employees wishing to change their remote work arrangement should submit a new request through the HR portal.

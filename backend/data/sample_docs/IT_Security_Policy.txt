@@ -1,0 +1,109 @@
+ACME CORPORATION — IT SECURITY POLICY
+Version 2.1 | Effective Date: March 1, 2025
+============================================
+
+SECTION 1: PURPOSE AND SCOPE
+
+1.1 Purpose
+This policy establishes the information security requirements for all employees, contractors, and third-party users who access Acme Corporation's information systems and data. The goal is to protect company assets from unauthorized access, disclosure, alteration, and destruction.
+
+1.2 Scope
+This policy applies to all information systems, networks, applications, and data owned or managed by Acme Corporation, regardless of location or format.
+
+SECTION 2: PASSWORD POLICY
+
+2.1 Password Requirements
+All user passwords must meet the following criteria:
+- Minimum length of 12 characters
+- Must include at least one uppercase letter, one lowercase letter, one number, and one special character
+- Cannot contain the user's name, username, or common dictionary words
+- Cannot reuse any of the last 10 passwords
+
+2.2 Password Expiration
+Passwords must be changed every 90 days. Users will receive a reminder notification 14 days before expiration. Failure to change the password will result in account lockout.
+
+2.3 Multi-Factor Authentication (MFA)
+MFA is mandatory for all employees accessing company systems remotely, VPN connections, and administrative accounts. Approved MFA methods include authenticator apps (Microsoft Authenticator, Google Authenticator) and hardware security keys.
+
+2.4 Password Storage
+Passwords must never be written down, shared with others, or stored in plain text. Use the company-approved password manager (LastPass Enterprise) for storing credentials.
+
+SECTION 3: DATA CLASSIFICATION AND HANDLING
+
+3.1 Data Classification Levels
+All company data is classified into four categories:
+- PUBLIC: Information that can be freely shared (e.g., marketing materials, press releases)
+- INTERNAL: Information for internal use only (e.g., internal memos, organizational charts)
+- CONFIDENTIAL: Sensitive business information (e.g., financial reports, client contracts, employee records)
+- RESTRICTED: Highly sensitive information requiring maximum protection (e.g., trade secrets, source code, cryptographic keys)
+
+3.2 Data Handling Rules
+- PUBLIC data may be shared externally without approval
+- INTERNAL data may be shared within the organization; external sharing requires manager approval
+- CONFIDENTIAL data requires encryption in transit and at rest; sharing requires department head approval
+- RESTRICTED data requires encryption, access logging, and CISO approval for any sharing
+
+3.3 Data Retention
+Data must be retained according to the data retention schedule maintained by the legal department. When data reaches its retention expiry, it must be securely deleted using approved data destruction methods.
+
+SECTION 4: NETWORK SECURITY
+
+4.1 VPN Usage
+All remote access to company systems must be through the company-approved VPN (GlobalProtect). Split tunneling is disabled for security reasons. Employees must connect to the VPN before accessing any internal resources.
+
+4.2 Wi-Fi Security
+Company Wi-Fi networks use WPA3 encryption. Employees should not connect to public or unsecured Wi-Fi networks when accessing company data. If public Wi-Fi must be used, a VPN connection is mandatory.
+
+4.3 Firewall and Intrusion Detection
+All company network segments are protected by enterprise firewalls and intrusion detection/prevention systems (IDS/IPS). Employees must not attempt to bypass or disable these security controls.
+
+4.4 Network Segmentation
+The corporate network is segmented into zones: Guest, Corporate, Development, and Restricted. Access between zones is controlled by firewall rules and requires appropriate authorization.
+
+SECTION 5: DEVICE SECURITY
+
+5.1 Company-Issued Devices
+All company-issued laptops and mobile devices must have:
+- Full disk encryption enabled (BitLocker for Windows, FileVault for macOS)
+- Automatic screen lock after 5 minutes of inactivity
+- Up-to-date antivirus software (CrowdStrike Falcon)
+- Automatic OS and software updates enabled
+
+5.2 BYOD (Bring Your Own Device)
+Personal devices used for work purposes must be enrolled in the company MDM (Mobile Device Management) solution. BYOD devices must meet minimum security requirements including encryption, PIN/biometric lock, and the ability to be remotely wiped.
+
+5.3 Removable Media
+The use of USB drives and external hard drives is restricted. Data transfer via removable media requires prior IT Security approval. All approved removable media must be encrypted.
+
+SECTION 6: EMAIL AND COMMUNICATION SECURITY
+
+6.1 Email Usage
+Company email is for business purposes. Employees should be cautious of phishing attempts and should not click on suspicious links or download unknown attachments. Report suspected phishing emails to security@acmecorp.com.
+
+6.2 Email Encryption
+Emails containing CONFIDENTIAL or RESTRICTED data must be encrypted using the company's email encryption solution (Microsoft 365 Message Encryption).
+
+6.3 Messaging Platforms
+Only company-approved messaging platforms (Microsoft Teams, Slack Enterprise) may be used for business communications. Confidential information should not be shared via personal messaging apps.
+
+SECTION 7: INCIDENT REPORTING
+
+7.1 Security Incident Reporting
+All security incidents (data breaches, malware infections, unauthorized access, lost/stolen devices) must be reported to the IT Security team within 1 hour of discovery via:
+- Email: security@acmecorp.com
+- Phone: Ext. 5555
+- IT Security Portal: https://security.acmecorp.internal
+
+7.2 Incident Response Process
+Upon receiving a report, the IT Security team will triage the incident, contain the threat, investigate the root cause, and implement remediation measures. Affected employees will be notified and provided with guidance.
+
+SECTION 8: TRAINING AND COMPLIANCE
+
+8.1 Security Awareness Training
+All employees must complete mandatory security awareness training within 30 days of joining and annually thereafter. Training covers phishing awareness, data handling, password best practices, and social engineering.
+
+8.2 Compliance Monitoring
+The IT Security team conducts regular audits and vulnerability assessments. Non-compliance with this policy may result in disciplinary action, including suspension of system access.
+
+8.3 Policy Violations
+Violations of this IT Security Policy may result in disciplinary action up to and including termination. Intentional violations that result in data breaches may also result in legal action.

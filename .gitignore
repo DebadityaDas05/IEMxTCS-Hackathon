@@ -1,0 +1,145 @@
+# ==============================================================================
+# Enterprise Knowledge Assistant — .gitignore
+# IEM × TCS Hackathon
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Python & Bytecode
+# ------------------------------------------------------------------------------
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# ------------------------------------------------------------------------------
+# Python Virtual Environments
+# ------------------------------------------------------------------------------
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------------------------------------------------------
+# Secrets & Environment Variables (Keep templates tracked, ignore real secrets)
+# ------------------------------------------------------------------------------
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+backend/.env.*
+backend/.env.local
+!.env.example
+!**/.env.example
+!**/mcp_config.json
+
+# ------------------------------------------------------------------------------
+# ChromaDB & Vector Stores (Persistent local database files)
+# ------------------------------------------------------------------------------
+chroma_db/
+**/chroma_db/
+backend/chroma_db/
+*.parquet
+*.sqlite3
+
+# ------------------------------------------------------------------------------
+# Model & Embeddings Caches
+# ------------------------------------------------------------------------------
+.cache/
+**/.cache/
+huggingface/
+**/.huggingface/
+models/
+**/*.onnx
+
+# ------------------------------------------------------------------------------
+# User Uploads (Ignore uploaded documents, keep .gitkeep)
+# ------------------------------------------------------------------------------
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+uploads/
+**/uploads/*
+!**/uploads/.gitkeep
+
+# ------------------------------------------------------------------------------
+# Node.js & Frontend (Vite / React)
+# ------------------------------------------------------------------------------
+node_modules/
+**/node_modules/
+frontend/dist/
+dist/
+.vite/
+**/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------------------------------------------------------
+# Testing & Code Quality
+# ------------------------------------------------------------------------------
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+coverage.xml
+
+# ------------------------------------------------------------------------------
+# IDEs & Code Editors
+# ------------------------------------------------------------------------------
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# ------------------------------------------------------------------------------
+# Operating System Artifacts
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ------------------------------------------------------------------------------
+# Logs & Scratch Files
+# ------------------------------------------------------------------------------
+*.log
+logs/
+*.tmp
+*.temp
+scratch/

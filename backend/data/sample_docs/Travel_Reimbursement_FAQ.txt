@@ -1,0 +1,59 @@
+ACME CORPORATION — TRAVEL AND REIMBURSEMENT FAQ
+Last Updated: February 2025
+================================================
+
+Q1: What expenses are covered under the travel reimbursement policy?
+A: The following expenses are eligible for reimbursement during approved business travel:
+- Airfare (economy class for domestic, economy/premium economy for international trips over 6 hours)
+- Hotel accommodation (up to INR 5,000/night for domestic, USD 150/night for international)
+- Local transportation (taxi, ride-sharing, public transport)
+- Meals (up to INR 1,500/day for domestic, USD 50/day for international)
+- Internet and phone charges incurred during travel
+- Visa and travel insurance fees for international travel
+
+Q2: How do I submit a travel reimbursement claim?
+A: Follow these steps:
+1. Collect all original receipts and invoices
+2. Log into the Expense Management Portal (expenses.acmecorp.internal)
+3. Create a new expense report and attach scanned copies of receipts
+4. Categorize each expense correctly
+5. Submit for manager approval within 15 days of trip completion
+6. Reimbursement will be processed within 10 business days of approval
+
+Q3: Do I need pre-approval for business travel?
+A: Yes. All business travel must be pre-approved by your reporting manager. International travel additionally requires approval from the department head. Travel requests should be submitted at least 10 business days before the planned travel date.
+
+Q4: What is the mileage reimbursement rate for using a personal vehicle?
+A: If you use your personal vehicle for business travel, the reimbursement rate is INR 8 per kilometer for two-wheelers and INR 12 per kilometer for four-wheelers. You must log the trip details (origin, destination, purpose, and odometer readings) in the expense portal.
+
+Q5: Can I book business class flights?
+A: Business class flights are permitted only for:
+- International flights exceeding 8 hours
+- Employees at Grade L5 (Vice President) and above
+- Medical accommodations with a doctor's recommendation
+All other flights should be economy class. Premium economy is allowed for international flights exceeding 6 hours.
+
+Q6: What happens if I lose a receipt?
+A: If you lose a receipt, you must submit a Lost Receipt Declaration form available on the HR portal. The declaration must include the date, vendor, amount, and purpose of the expense. Expenses without receipts or declarations exceeding INR 500 will not be reimbursed.
+
+Q7: Are expenses for client entertainment covered?
+A: Yes, reasonable client entertainment expenses are covered with prior manager approval. The limits are:
+- Client meals: up to INR 3,000 per person
+- Client events: up to INR 10,000 per event (requires department head approval)
+You must note the client names, company, and business purpose on the expense report.
+
+Q8: Can I extend a business trip for personal travel?
+A: Yes, you may extend a business trip for personal travel, provided:
+- You obtain prior approval from your manager
+- The company covers expenses only for the business portion of the trip
+- Any additional flight cost due to the personal extension is borne by the employee
+- Personal travel days are marked as leave in the HR portal
+
+Q9: What is the advance travel allowance?
+A: Employees can request a travel advance of up to 80% of the estimated trip cost. The advance must be requested at least 5 business days before travel. Any unspent advance must be returned within 7 days of trip completion via the expense portal.
+
+Q10: Who do I contact for travel-related queries?
+A: For travel-related queries, contact:
+- Travel Desk: travel@acmecorp.com | Ext. 4444
+- Expense Helpdesk: expenses@acmecorp.com | Ext. 4445
+- HR Operations: hrops@acmecorp.com | Ext. 3333

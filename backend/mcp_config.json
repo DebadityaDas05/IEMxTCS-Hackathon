@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "enterprise-knowledge-assistant": {
+      "command": "python",
+      "args": [
+        "d:\\Projects\\IEMxTCS Hackathon\\backend\\mcp_server.py"
+      ],
+      "env": {
+        "PYTHONUTF8": "1",
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
